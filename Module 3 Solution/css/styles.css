@@ -1,0 +1,66 @@
+body{
+	background-color: #383838;
+}
+
+#header-nav {
+	background-color: #C67171;
+}
+
+.navbar-brand {
+  padding-bottom: 50px;
+}
+
+.navbar-brand a {
+	position: relative;
+}
+#nav-list {
+	margin-top: 10px;
+}
+
+#collapsable-nav a {
+	color: white;
+	background-color: #383838;
+	text-align: center;
+}
+
+#collapsable-nav a:hover {
+	color: black;
+	background-color: white;
+	text-align: center;
+}
+
+h1 {
+	padding: 0 10px;
+	margin: 0;
+	font-size: 1.7em;
+	color: black ;
+	text-shadow: 1px 1px 1px gray;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.main-content {
+	padding: 0 20px;
+}
+
+
+#title-menu {
+	margin-bottom: 25px; 
+	text-shadow: 2px 2px 2px black;
+	color: white;
+
+}
+
+#chicken-content, #beef-content, #sushi-content {
+	border: 1px solid black; 
+	padding: 0 15px 10px 15px;
+	margin-bottom: 35px; 
+	background-color: white;
+	color: black;
+}
+
+#chicken-title {
+	text-decoration: bold;
+}
